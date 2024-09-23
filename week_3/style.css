@@ -1,10 +1,20 @@
 body{
-    background-color :#ffa236;
-    font-family: "Arial", "Helvetica", "sans-serif";
+    background-color: azure;
+}
+.IMG_1{
+    height: 800px;
+    width:1500px;
+    background-image: url(IMAGE_2.jpeg);
+    background-size: cover;
+
 }
 h1{
-    color : #2e9599;
+    text-align: center;
+    color: #2f1043;
+    font-size:500%;
 }
 h3{
-    color :#44d1df;
+    text-align: left;
+    font-size: 200%;
+    color:#685f77 ;
 }
