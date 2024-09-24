@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Philosopher-Regular
+font link: https://fonts.google.com/specimen/Philosopher
+font author: Jovanny Lemonad
+font author site: http://jovanny.ru/
+Slogan Font: Questrial-Regular.otf
+
+icon designer: Icons By Alfredo
+icon designer link: /AlfredoCreates
+        
+{"bg":"#65A8E8","icon":"#225998","font":"#ffffff","slogan":"#ffffff"}
+      
