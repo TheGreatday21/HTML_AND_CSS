@@ -5,7 +5,7 @@ body{
 
 /*for classes we use a dot infront of the class you assigned*/
 .logo{
-    background: url(/images/default.png);
+    background: url(images/default.png);
     width: 1000px;
     height: 750px;
     ruby-align: center;
