@@ -5,27 +5,42 @@
     <meta charset = "UTF-8">
     <style>
         body{
-            background-color:#843768 ;
+            background-color:#e86d6f ;
         }
         h3{
-            font-size: 150%;
+            font-size: 70px;
+        }
+        h5{
+            font-size: 30px;
         }
         pre{
-            font-size: 80%;
+            font-size: 30px;
+        }
+        p{
+            font-size: 30px;
         }
     </style>
 
 </head>
 <body>
+
+    <!--There are over 5 ways to add color in css and html -->
+    <!--These include
+    rgb : rgb(133, 10, 40) (rgb stands for red green blue )
+    hsl : hsl(48, 27%, 51%) (hsl stands for hue saturation and light)
+    string : aqua
+    hex/hash : #3eb33e
+    rgba (red green blue opacity)   -->
+
     <h3>For this website we are going to learn the different types of css</h3>
-    <h5>Inline css</h5>
-    <pre>this type of css that is applied to one given element at a time </pre>
-    <br><br>
+    <h5 style="color :#3eb33e;">Inline css</h5>
+    <pre style="color:aqua; text-align : left;">This css is defined by using style function in a tag .Hence the name inline </pre>
+    <br><br><!--The elements in the tags are separated by a ";"-->
     <h5>Internal css</h5>
-    <p>This involves using the style tags in the head section of the html file . Mainly used if the page has a unique design </p>
+    <p style="color : rgb(133, 10, 40);">This involves using the style tags in the head section of the html file . Mainly used if the page has a unique design </p>
     <br><br>
     <h5>External css</h5>
-    <pre>We use another file called a style sheet and link it to the html file in the head section using the link function </pre>
+    <pre style="color :hsl(48, 27%, 51%);">We use another file called a style sheet and link it to the html file in the head section using the link function </pre>
     <br><br>
 
     <!--the css properties include properties like: 1.tags, 2.classes, 3. ids  -->
@@ -34,5 +49,25 @@
     <!--we can edit the html from the css file with many annotations like font size, color, background color, -->
     <!--We also have the bar properties like the "nav-bar{}", "#title-bar{}"-->
 
+<!--"Div" tags tag things  together ie it arranges things on the webpage  in block format just like arranging in a container -->
+<!-- "Span" tag is inline but acts like the div tag -->
+    <!-- It arranges information in inline arrangement-->
+ <div>
+    <p>Data Science (in a div)</p>
+ </div>
+ <div>
+    <p>Computer science (in  a div)</p>
+ </div>
+ <span>
+    DATA SCIENCE (in a span)
+ </span>
+<span>
+    COMPUTER SCIENCE (in a span)
+</span>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam enim ut sint hic incidunt consequuntur impedit soluta! Eveniet alias exercitationem quaerat iusto expedita eos provident, est facilis non, aperiam fuga.</p>
+<br>
+<a href="notes_2.html" title="Takes you to page 2">THIS TAKES YOU TO PAGE 2</a>
 </body>
 </html>
+
+<!--This code is abit compavt so we use an external style sheet to make the work neater but still professional-->
