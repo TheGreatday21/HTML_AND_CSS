@@ -17,18 +17,26 @@ span{
     font-size: 30px;
     color:#ceb468;
 }
+
 div{
     font-size: 30px;
     color:#ceb468;
+    /*margin: 20px;*/
+ /*manually doing the margins*/
+    margin-top: 12px;
+    margin-bottom: 23px;
+    border: 40px solid;/*There is dotted ,solid and many more*/
+    padding: 20px 2px 4px 40px; /*this pushes the text within the borders*/
+    /*padding is done in clockwise order i.e 20px-top,2px-right,4px-bottomright,25px-left*/
+
 }
 .para_1{  
     font-size: 30px;
     color: #063617;
 }
 #ipsum{
-    background-image: url(default.png) ;height = "";
-    font-size: 40px;
-    color:#605b30 ;
+    
+    background-image: url(default.png);
 }
 
 
