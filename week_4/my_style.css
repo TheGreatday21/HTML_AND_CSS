@@ -26,8 +26,9 @@ div{
     color: #063617;
 }
 #ipsum{
-    background-color: aqua;
-    background-image: ;
+    background-image: url(default.png) ;height = "";
+    font-size: 40px;
+    color:#605b30 ;
 }
 
 
