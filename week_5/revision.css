@@ -1,0 +1,24 @@
+*{
+    font-size: 30px;
+    /*selects all the tags int he html file*/
+}
+
+#rice{
+    color: #5d65cf;
+    /*This is for the id property*/
+}
+
+.posho{
+    background-color: aquamarine;
+    /*This is for the class property*/
+}
+
+h1 , h2 , h3, h4 {
+    background-color: #dd930f;
+}
+
+#gif{
+    image :url(lego-batman.gif);
+}
+
+
